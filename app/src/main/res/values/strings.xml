@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Suggestion Box</string>
+    <string name="title_activity_president">Bagas Saputro</string>
+    <string name="president_text">
+        "<b>Tugas Pokok Presiden BEM</b>\n\n"
+        "1. Bertanggung jawab atas segala bentuk kegiatan dan aktivitas BEM POLINES kepada Mahasiswa Politeknik Negeri Semarang serta dalam menjalankan tugasnya  bertanggung jawab kepada tuhan Yang Maha Esa.\n"
+        "2. Menjalankan tugas internal dan eksternal BEM.\n"
+        "3. Menjadi pemimpin tertinggi BEM dan menjalankan roda organisasi.\n"
+        "4. Pengambil keputusan terakhir di dalam organisasi internal BEM dan pernyataan sikap resmi mahasiswa.\n"
+        "5. Berkoordinasi dan menggalang persatuan Ormawa Polines.\n"
+        "6. Mengayomi, mengarahkan dan melindungi segenap kegiatan dan aktivitas pada BEM serta Ormawa yang ada.\n"
+        "7. Ikut membangun suasana harmonis dan kekeluargaan dalam internal BEM.\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
